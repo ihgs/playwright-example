@@ -1,0 +1,14 @@
+Listing tests:
+  [chromium] › mylink.spec.ts:15:5 › myLink  › Linkを作成する
+  [chromium] › mylink.spec.ts:37:7 › myLink  › visualization test
+  [chromium] › mylink.spec.ts:56:7 › myLink  › upload file test
+  [chromium] › mylink.spec.ts:75:7 › myLink  › カテゴリ入れ替えテスト
+  [Mobile Chrome] › mylink.spec.ts:15:5 › myLink  › Linkを作成する
+  [Mobile Chrome] › mylink.spec.ts:37:7 › myLink  › visualization test
+  [Mobile Chrome] › mylink.spec.ts:56:7 › myLink  › upload file test
+  [Mobile Chrome] › mylink.spec.ts:75:7 › myLink  › カテゴリ入れ替えテスト
+  [Mobile Safari] › mylink.spec.ts:15:5 › myLink  › Linkを作成する
+  [Mobile Safari] › mylink.spec.ts:37:7 › myLink  › visualization test
+  [Mobile Safari] › mylink.spec.ts:56:7 › myLink  › upload file test
+  [Mobile Safari] › mylink.spec.ts:75:7 › myLink  › カテゴリ入れ替えテスト
+Total: 12 tests in 1 file
