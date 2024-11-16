@@ -19,6 +19,8 @@ jobs:
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
-        name: screenshots
-        path: tests/__screenshots__/
+        name: report-screenshots
+        path: | 
+          tests/__screenshots__/
+          playwright-report/
         retention-days: 30
